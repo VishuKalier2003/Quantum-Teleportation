@@ -13,8 +13,10 @@ Entanglement***. The ***coordination of states of Qbits happens faster than the 
     |-->   Model                     => Folder containing the notebooks
     |
     |-->   Snippets                  => Folder for Code Snippets
-              |
-              |-->  README.md        => Code Snippets
+    |         |
+    |         |-->  README.md        => Code Snippets
+    |
+    |-->   Theoretical               => Folder containing Theory Explanation
     
 ------
 
