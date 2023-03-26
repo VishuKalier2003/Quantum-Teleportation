@@ -13,3 +13,7 @@ the ***previous state of the target Qbit gets destroyed***.
 ### ${Performing \space Quantum \space Teleportation}$
 
 We take two Qbits and two Classical Bits for measuring the Qbits at a particular instance. Then, we apply a Hadamard Gate to provide superposition to a Qbit.
+
+
+## ${Created \space By}$
+***Vishu Kalier***
