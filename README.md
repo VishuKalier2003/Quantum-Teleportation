@@ -31,6 +31,7 @@ Project Table.
 |-|-|-|
 | 1. | <b><i>Model | Completed :heavy_check_mark: |
 | 2. | <b><i>Snippets | Completed :heavy_check_mark: |
+| 3. | <b><i>Theory | Completed ✔️ |
 
 
 ------
