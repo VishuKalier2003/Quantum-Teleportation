@@ -16,7 +16,7 @@ the ***previous state of the target Qbit gets destroyed***.
 
 ### ${Performing \space Quantum \space Teleportation}$
 
-We take two Qbits and two Classical Bits for measuring the Qbits at a particular instance. Then, we apply a Hadamard Gate to provide superposition to a Qbit.
+We take two Qbits and two Classical Bits for measuring the Qbits at a particular instance. Then, we apply a Hadamard Gate to provide superposition to a Qbit. Since control negation gate changes the state of the Qbit as per the input Qbit value. Thus, the two Qbits enter into a Superposition state.
 
 -----
 
